@@ -1,6 +1,6 @@
 # SQL Server Performance Investigation Lab
 
-A reproducible SQL Server 2022 lab demonstrating how to investigate a slow reporting query and validate a targeted nonclustered index using actual execution plans and measurable query statistics.
+A reproducible SQL Server lab demonstrating how to investigate a slow reporting query and validate a targeted nonclustered index using actual execution plans and measurable query statistics.
 
 > **Scope:** Synthetic data only. The lab is a method demonstration, not a universal indexing recipe.
 >
